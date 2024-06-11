@@ -3,7 +3,7 @@
 
 
 <body>
-  <h1> Hello5 </h1>
+  <h1> Salesforce Chatbot Test </h1>
   <head></head>
             <script type='text/javascript'>
     function initEmbeddedMessaging() {

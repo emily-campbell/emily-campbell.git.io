@@ -1,7 +1,23 @@
-<script type = "text/javascript" src = 'https://home-c19.incontact.com/inContact/ChatClient/js/embed.min.js'></script>
-<script type ="text/javascript">
-icPatronChat.init({serverHost:'https://home-c19.incontact.com',bus_no:4596165,poc:'6edbeef1-eda4-4a33-bb66-2d918e6cbeea',params:['FirstName','Last Name','first.last@company.com',555-555-5555]});
+<html>
+          <script type='text/javascript'>
+    function initEmbeddedMessaging() {
+        try {
+            embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
+            embeddedservice_bootstrap.init(
+                '00DOv000007ABPZ',
+                'Testing_App',
+                'https://clearcaptions123--nkbackup.sandbox.my.site.com/ESWTestingApp1717680368430',
+                {
+                    scrt2URL: 'https://clearcaptions123--nkbackup.sandbox.my.salesforce-scrt.com'
+                }
+            );
+        } catch (err) {
+            console.error('Error loading Embedded Messaging: ', err);
+        }
+    };
 </script>
+<script type='text/javascript' src='https://clearcaptions123--nkbackup.sandbox.my.site.com/ESWTestingApp1717680368430/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+</html>
 
 
 <body>

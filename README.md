@@ -1,4 +1,7 @@
-          <script type='text/javascript'>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+            <script type='text/javascript'>
     function initEmbeddedMessaging() {
         try {
             embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
@@ -15,9 +18,13 @@
         }
     };
 </script>
-<script type='text/javascript' src='https://clearcaptions123--nkbackup.sandbox.my.site.com/ESWTestingApp1717680368430/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://clearcaptions123--nkbackup.sandbox.my.site.com/ESWTestingApp1717680368430/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script></head>
+
+
+          
 
 
 <body>
   <h1> Hello5 </h1>
 </body>
+</html>

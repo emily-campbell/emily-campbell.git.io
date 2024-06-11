@@ -1,5 +1,5 @@
 <html lang="en">
-  <head>
+  <head></head>
             <script type='text/javascript'>
     function initEmbeddedMessaging() {
         try {
@@ -17,7 +17,7 @@
         }
     };
 </script>
-<script type='text/javascript' src='https://clearcaptions123--nkbackup.sandbox.my.site.com/ESWTestingApp1717680368430/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script></head>
+<script type='text/javascript' src='https://clearcaptions123--nkbackup.sandbox.my.site.com/ESWTestingApp1717680368430/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
 
 <body>

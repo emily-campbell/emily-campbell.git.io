@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
             <script type='text/javascript'>
@@ -19,9 +18,6 @@
     };
 </script>
 <script type='text/javascript' src='https://clearcaptions123--nkbackup.sandbox.my.site.com/ESWTestingApp1717680368430/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script></head>
-
-
-          
 
 
 <body>
